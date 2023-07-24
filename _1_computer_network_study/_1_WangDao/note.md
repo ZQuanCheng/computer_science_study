@@ -429,6 +429,22 @@
 > 
 
 
+
+>
+> **<font color="pink" size = 5>1. 主要任务与传输单位</font>**
+> 
+> > <div align=center>
+> > <img src="./images/network_layer_1.png" style="zoom:100%"/>
+> > </div>
+>
+> 
+> 
+
+
+
+
+
+
 #### 4.1.2 计算机网络之（电路交换、报文交换、分组交换–数据报–虚电路）
 
 >
