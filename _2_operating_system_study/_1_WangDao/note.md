@@ -1590,7 +1590,7 @@
 
 
 >
-> **<font color="pink" size = 5>2. 共享存储</font>**
+> **<font color="pink" size = 5>2. 共享内存</font>**
 >
 > > 
 > > <div align=center>
